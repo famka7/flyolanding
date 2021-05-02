@@ -401,5 +401,6 @@ footer a:hover {
   footer > .con > .con > .nav nav > * {
     flex-shrink: 0;
     margin: 0;
+    width: 200%;
   }
 }
